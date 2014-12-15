@@ -1,5 +1,5 @@
 [package]
 
 name = "zeromq4-1"
-version = "4.1.x"
+version = "4.1.0"
 authors = ["kirk7880@gmail.com <kirk7880@gmail.com>"]
